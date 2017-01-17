@@ -1,5 +1,4 @@
 # Read Me 
 
 
-* This will include a list of items
-* This will include some more things
+This readme has a variety of things in it. Some of those things *look* cool. 
